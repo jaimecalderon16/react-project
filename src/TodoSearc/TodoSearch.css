@@ -1,0 +1,22 @@
+.input-buscar{
+    text-align: center;
+    width: 15rem;
+    height: 2.5rem;
+    border: 2px solid rgb(35, 35, 35);
+    font-size: 18px;
+    background-color: #f9fbfc;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
+}
+
+.input-buscar::placeholder{
+    color: rgb(157, 158, 158);
+    font-weight: 500;
+    outline: aquamarine solid 3px;
+    outline-color: rgb(38, 168, 125);
+}
+
+.input-buscar:focus{
+    outline:none;
+    border-color: aquamarine;
+    box-shadow: 0px 10px 50px rgba(122, 240, 255, 0.6);  
+}

@@ -1,0 +1,14 @@
+body{
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  padding: 4rem;
+}
+
+#root{
+  margin: opx auto;
+  width: 70%;
+}
