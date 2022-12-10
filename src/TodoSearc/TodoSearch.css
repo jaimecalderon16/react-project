@@ -8,13 +8,6 @@
     box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
 }
 
-.input-buscar::placeholder{
-    color: rgb(157, 158, 158);
-    font-weight: 500;
-    outline: aquamarine solid 3px;
-    outline-color: rgb(38, 168, 125);
-}
-
 .input-buscar:focus{
     outline:none;
     border-color: aquamarine;
